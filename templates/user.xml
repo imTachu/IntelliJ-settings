@@ -15,4 +15,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="newlist" value="List&lt;String&gt; list = new ArrayList&lt;&gt;();" description="Create a new ArrayList" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
