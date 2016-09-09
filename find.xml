@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\domain\general'" />
-    <option name="defaultScopeName" value="Directory 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\domain\general'" />
-    <option name="SEARCH_SCOPE" value="Directory 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\domain\general'" />
+    <option name="customScope" value="Directory 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\web\rest\general'" />
+    <option name="defaultScopeName" value="Directory 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\web\rest\general'" />
+    <option name="SEARCH_SCOPE" value="Directory 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\web\rest\general'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
