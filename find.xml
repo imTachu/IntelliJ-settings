@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\web\rest\general'" />
-    <option name="defaultScopeName" value="Directory 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\web\rest\general'" />
+    <option name="customScope" value="Directory 'C:\Users\lsalamanca\Tesis\ArchinotesX\ArchinotesX\src\main\java\com\uniandes\thesis\web\rest'" />
+    <option name="defaultScopeName" value="Directory 'C:\Users\lsalamanca\Tesis\ArchinotesX\ArchinotesX\src\main\java\com\uniandes\thesis\web\rest'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\web\rest\general'" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\lsalamanca\Tesis\ArchinotesX\ArchinotesX\src\main\java\com\uniandes\thesis\web\rest'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
