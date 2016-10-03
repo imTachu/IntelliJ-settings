@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory 'C:\Users\lsalamanca\Tesis\ArchinotesX\ArchinotesX\src\main\java\com\uniandes\thesis\web\rest'" />
     <option name="defaultScopeName" value="Directory 'C:\Users\lsalamanca\Tesis\ArchinotesX\ArchinotesX\src\main\java\com\uniandes\thesis\web\rest'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory 'C:\Users\lsalamanca\Tesis\ArchinotesX\ArchinotesX\src\main\java\com\uniandes\thesis\web\rest'" />
     <recentFileMasks>
       <mask>*.properties</mask>
