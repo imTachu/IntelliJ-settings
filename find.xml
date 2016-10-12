@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\Users\lsalamanca\Tesis\ArchinotesX\ArchinotesX\src\main\java\com\uniandes\thesis\web\rest'" />
-    <option name="defaultScopeName" value="Directory 'C:\Users\lsalamanca\Tesis\ArchinotesX\ArchinotesX\src\main\java\com\uniandes\thesis\web\rest'" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\lsalamanca\Tesis\ArchinotesX\ArchinotesX\src\main\java\com\uniandes\thesis\web\rest'" />
+    <option name="customScope" value="Directory 'D:\ElasticBeanstalkDeployer\src\main\java\com\proycomp'" />
+    <option name="defaultScopeName" value="Directory 'D:\ElasticBeanstalkDeployer\src\main\java\com\proycomp'" />
+    <option name="SEARCH_SCOPE" value="Directory 'D:\ElasticBeanstalkDeployer\src\main\java\com\proycomp'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
