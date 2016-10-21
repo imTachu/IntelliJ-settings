@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\service\concesion\IndiceCumplimientoService.java'" />
-    <option name="defaultScopeName" value="File 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\service\concesion\IndiceCumplimientoService.java'" />
-    <option name="SEARCH_SCOPE" value="File 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\service\concesion\IndiceCumplimientoService.java'" />
+    <option name="customScope" value="File 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\web\rest\concesion\IndiceCumplimientoResource.java'" />
+    <option name="defaultScopeName" value="File 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\web\rest\concesion\IndiceCumplimientoResource.java'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\web\rest\concesion\IndiceCumplimientoResource.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
