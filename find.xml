@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'D:\eb-deployer-maven-plugin\src\test\java\com\proycomp\tools\ebdeployer\ElasticBeanstalkDeployerMojoTest.java'" />
-    <option name="defaultScopeName" value="File 'D:\eb-deployer-maven-plugin\src\test\java\com\proycomp\tools\ebdeployer\ElasticBeanstalkDeployerMojoTest.java'" />
+    <option name="customScope" value="Directory 'D:\eb-deployer-maven-plugin\src'" />
+    <option name="defaultScopeName" value="Directory 'D:\eb-deployer-maven-plugin\src'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'D:\eb-deployer-maven-plugin\src\test\java\com\proycomp\tools\ebdeployer\ElasticBeanstalkDeployerMojoTest.java'" />
+    <option name="SEARCH_SCOPE" value="Directory 'D:\eb-deployer-maven-plugin\src'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
