@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\Users\lsalamanca\Tesis\ArchinotesX\ArchinotesX\src\main\java\com\uniandes\thesis\service\util\ShellUtil.java'" />
-    <option name="defaultScopeName" value="File 'C:\Users\lsalamanca\Tesis\ArchinotesX\ArchinotesX\src\main\java\com\uniandes\thesis\service\util\ShellUtil.java'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\Users\lsalamanca\Tesis\ArchinotesX\ArchinotesX\src\main\java\com\uniandes\thesis\service\util\ShellUtil.java'" />
+    <option name="customScope" value="File 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\service\concesion\PQRFormatosService.java'" />
+    <option name="defaultScopeName" value="File 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\service\concesion\PQRFormatosService.java'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\sicc-fase-2\src\main\java\com\proycomp\sicc\service\concesion\PQRFormatosService.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
