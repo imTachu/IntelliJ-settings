@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*RepositoryImpl.java</mask>
+      <mask>*I.java</mask>
+      <mask>*Inter.java</mask>
+      <mask>*Interfa.java</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.h</mask>
+      <mask>!*.html</mask>
+      <mask>!*.js</mask>
+      <mask>*.</mask>
+      <mask>*cONTROL</mask>
+      <mask>*cONTRO</mask>
+      <mask>*cONTR</mask>
+      <mask>*cONT</mask>
+      <mask>*cON</mask>
+      <mask>*cO</mask>
+      <mask>*c</mask>
+      <mask>*C</mask>
+      <mask>*Con</mask>
+      <mask>*Contro</mask>
+      <mask>*Control</mask>
+      <mask>*Controller.</mask>
+      <mask>*Controller.java</mask>
+      <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*I</mask>
+      <mask>*In</mask>
+      <mask>*Interface.java</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
