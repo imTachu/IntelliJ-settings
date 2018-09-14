@@ -10,8 +10,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.properties</mask>
-    <mask>*Interface.java</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*Interface.java</mask>
   </component>
 </application>
